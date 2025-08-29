@@ -1,29 +1,98 @@
 # 💰 Expense Tracker
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![.NET](https://img.shields.io/badge/.NET-8.0-purple?logo=dotnet)](https://dotnet.microsoft.com/)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/Ibrahim-Suker/Expense-Tracker)](https://github.com/Ibrahim-Suker/Expense-Tracker/issues)
-
-> A simple and effective personal finance management system to track **income, expenses, and savings goals**.  
-> Built with **C#, ASP.NET Core MVC, EF Core, and SQL** for a scalable and maintainable experience.
+A simple and intuitive **Expense Tracker** web application to manage your income, expenses, and balance.  
+Built with **ASP.NET Core MVC** and **Entity Framework Core (Code-First Approach)**.
 
 ---
 
-## ✨ Features
-- ✅ Add, edit, and delete **categories** (Income / Expense).  
-- ✅ Track **transactions** with details like date, amount, and category.  
-- ✅ Interactive **dashboard** with charts & summaries.  
-- ✅ Responsive and clean **Bootstrap UI**.  
-- ✅ Built using **Entity Framework Core (Code First)** with database migrations.  
+## 🚀 Features
+- 📊 **Dashboard Overview** – Total income, expense, and balance visualization.  
+- 🗂 **Category-wise Breakdown** – Expenses grouped by categories.  
+- 📈 **Charts & Graphs** – Income vs Expense graph with daily tracking.  
+- 📝 **Transaction Management** – Add, edit, and delete transactions.  
+- 🔍 **Recent Transactions** – Quick view of your latest financial activities.  
+- 🎨 **Modern Dark UI** – Clean, responsive design with data visualization.
+
+---
+
+## 🖼 Screenshots
+
+### Dashboard  
+![Dashboard Screenshot](/mnt/data/FireShot%20Capture%20006%20-%20Expense%20Tracker%20-%20%5Blocalhost%5D.png)
+
+### Transactions Page  
+![Transactions Screenshot](/mnt/data/FireShot%20Capture%20007%20-%20Expense%20Tracker%20-%20%5Blocalhost%5D.png)
+
+### Add Transaction  
+![Add Transaction Screenshot](screenshots/add-transaction.png)
+
+### Expense by Category  
+![Expense by Category Screenshot](screenshots/expense-category.png)
+
+### Income vs Expense Graph  
+![Income vs Expense Screenshot](screenshots/income-expense.png)
 
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** ASP.NET Core MVC 8, C#  
-- **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript  
-- **Database:** SQL Server, Entity Framework Core  
-- **Version Control:** Git & GitHub  
+- **Frontend:** HTML, CSS, Bootstrap, Syncfusion UI  
+- **Backend:** ASP.NET Core MVC (.NET 8)  
+- **Database:** SQL Server (EF Core – Code First)  
+- **Tools:** Git, Visual Studio, LINQ  
 
 ---
-![Uploading FireShot Capture 006 - Expense Tracker - [localhost].png…]()
+
+## ⚙️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ibrahim-Suker/Expense-Tracker.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd Expense-Tracker
+Update the connection string in appsettings.json:
+
+json
+Copy code
+"ConnectionStrings": {
+  "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=ExpenseTracker;Trusted_Connection=true;MultipleActiveResultSets=true"
+}
+Apply migrations:
+
+bash
+Copy code
+dotnet ef database update
+Run the application:
+
+bash
+Copy code
+dotnet run
+Open in browser:
+👉 https://localhost:5001
+
+📌 Usage
+➕ Add Transaction: Navigate to Transactions → Add New Transaction.
+
+✏️ Edit Transaction: Update existing transactions.
+
+❌ Delete Transaction: Remove unwanted transactions.
+
+📊 View Dashboard: See summary charts and recent activities.
+
+📷 Screenshots Folder
+Make sure to place your extra screenshots in a folder named screenshots/ inside the project root.
+
+screenshots/add-transaction.png
+
+screenshots/expense-category.png
+
+screenshots/income-expense.png
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to open a Pull Request or Issue.
+
+📜 License
+This project is licensed under the MIT License.
