@@ -18,19 +18,19 @@ Built with **ASP.NET Core MVC** and **Entity Framework Core (Code-First Approach
 ## 🖼 Screenshots
 
 ### Dashboard  
-![Dashboard Screenshot](/mnt/data/FireShot%20Capture%20006%20-%20Expense%20Tracker%20-%20%5Blocalhost%5D.png)
+![Dashboard](https://github.com/user-attachments/assets/011b4e51-2b27-42ba-91c3-398845252919)
 
 ### Transactions Page  
-![Transactions Screenshot](/mnt/data/FireShot%20Capture%20007%20-%20Expense%20Tracker%20-%20%5Blocalhost%5D.png)
+![Transactions](https://github.com/user-attachments/assets/99770ed8-2bb9-49e4-a2a1-89a3ca7fe238)
 
 ### Add Transaction  
-![Add Transaction Screenshot](screenshots/add-transaction.png)
+![Add Transaction](https://github.com/user-attachments/assets/02158ebc-3572-45a2-a383-376790c64f2b)
 
 ### Expense by Category  
-![Expense by Category Screenshot](screenshots/expense-category.png)
+![Expense by Category](https://github.com/user-attachments/assets/71351aa4-f83e-41c4-9738-bb89ea89da3c)
 
 ### Income vs Expense Graph  
-![Income vs Expense Screenshot](screenshots/income-expense.png)
+![Income vs Expense](https://github.com/user-attachments/assets/5d46314f-9653-4cf8-9c98-7f8bdb5dde43)
 
 ---
 
@@ -81,22 +81,30 @@ Open in browser:
 
 📊 View Dashboard: See summary charts and recent activities.
 
-📷 Screenshots Folder
-Make sure to place your extra screenshots in a folder named screenshots/ inside the project root.
-
-<img width="1521" height="1066" alt="FireShot Capture 007 - Expense Tracker -  localhost" src="https://github.com/user-attachments/assets/99770ed8-2bb9-49e4-a2a1-89a3ca7fe238" />
-<img width="1521" height="1560" alt="FireShot Capture 006 - Expense Tracker -  localhost" src="https://github.com/user-attachments/assets/011b4e51-2b27-42ba-91c3-398845252919" />
-
-<img width="1521" height="883" alt="FireShot Capture 008 - Expense Tracker -  localhost" src="https://github.com/user-attachments/assets/02158ebc-3572-45a2-a383-376790c64f2b" />
-
-<img width="1920" height="1037" alt="FireShot Capture 009 - Expense Tracker -  localhost" src="https://github.com/user-attachments/assets/71351aa4-f83e-41c4-9738-bb89ea89da3c" />
-<img width="1920" height="1037" alt="FireShot Capture 010 - Expense Tracker -  localhost" src="https://github.com/user-attachments/assets/5d46314f-9653-4cf8-9c98-7f8bdb5dde43" />
-
-
-
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to open a Pull Request or Issue.
 
 📜 License
 This project is licensed under the MIT License.
+
+👨‍💻 Author
+Ibrahim Ahmed (Ibrahim-Suker)
+🔗 GitHub Profile
+
+yaml
+Copy code
+
+---
+
+✅ Now all images will **render correctly on GitHub** using your hosted attachment links.  
+
+Do you want me to also **add badges** (like .NET version, license, stars, forks) at the top for a more professional look?
+
+
+
+
+
+
+
+Ask ChatGPT
