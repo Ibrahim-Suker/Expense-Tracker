@@ -10,13 +10,6 @@
 
 ---
 
-## 📌 Table of Contents
-- [✨ Features](#-features)
-- [🛠 Tech Stack](#-tech-stack)
-- [📬 Contact](#-contact)
-
----
-
 ## ✨ Features
 - ✅ Add, edit, and delete **categories** (Income / Expense).  
 - ✅ Track **transactions** with details like date, amount, and category.  
@@ -33,11 +26,3 @@
 - **Version Control:** Git & GitHub  
 
 ---
-
-
-📬 Contact
-👤 Ibrahim Suker
-📧 Email: ibrahimsukeroo@gmail.com
-🌐 GitHub: @Ibrahim-Suker
-
-🔗 Project Link: Expense Tracker
