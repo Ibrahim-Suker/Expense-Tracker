@@ -90,21 +90,4 @@ This project is licensed under the MIT License.
 
 👨‍💻 Author
 Ibrahim Ahmed (Ibrahim-Suker)
-🔗 GitHub Profile
 
-yaml
-Copy code
-
----
-
-✅ Now all images will **render correctly on GitHub** using your hosted attachment links.  
-
-Do you want me to also **add badges** (like .NET version, license, stars, forks) at the top for a more professional look?
-
-
-
-
-
-
-
-Ask ChatGPT
