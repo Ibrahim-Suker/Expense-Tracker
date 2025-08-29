@@ -50,13 +50,14 @@ git clone https://github.com/Ibrahim-Suker/Expense-Tracker.git
 cd Expense-Tracker
 
 2️⃣ Setup Database
-
+```bash
 Update the connection string in appsettings.json
 
 Run the migrations:
 
 dotnet ef database update
 
+```bash
 3️⃣ Run the Application
 dotnet run
 
