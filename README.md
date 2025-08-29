@@ -87,7 +87,6 @@ GitHub: @Ibrahim-Suker
 Email: ibrahimsukeroo@gmail.com
 
 
----
 
 ✅ Improvements I made:  
 - Fixed broken formatting in **installation & usage** (your version merged sections).  
